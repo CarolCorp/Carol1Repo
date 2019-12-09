@@ -7,6 +7,7 @@ namespace Carol1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            // LBDev is adding a new line into CarolCorp project
         }
     }
 }
